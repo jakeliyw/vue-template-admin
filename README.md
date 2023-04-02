@@ -1,4 +1,4 @@
-# gs-vuecli
+# vue-template-admin
 
 ## Project setup
 
